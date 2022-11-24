@@ -4,3 +4,7 @@ A Novel Center-based Deep Contrastive Metric Learning Method for the Detection o
 PPMR Dataset: https://www.kaggle.com/datasets/lingfengzhang/pediatric-polymicrogyria-mri-dataset
 
 Arxiv: https://arxiv.org/abs/2211.12565
+
+In modified CIFAR-10 Dataset, simply run cifar10_metric_loss.py
+
+In PPMR Dataset, run 
