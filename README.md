@@ -5,6 +5,8 @@ PPMR Dataset: https://www.kaggle.com/datasets/lingfengzhang/pediatric-polymicrog
 
 Arxiv: https://arxiv.org/abs/2211.12565
 
+Thesis: http://hdl.handle.net/10393/44312
+
 For modified CIFAR-10 Dataset, simply run cifar10_metric_loss.py
 
 For PPMR Dataset, command "bash run.sh"
