@@ -10,3 +10,5 @@ Thesis: http://hdl.handle.net/10393/44312
 For modified CIFAR-10 Dataset, simply run cifar10_metric_loss.py
 
 For PPMR Dataset, command "bash run.sh"
+
+TensorFlow 2.4.1 for PPMR
